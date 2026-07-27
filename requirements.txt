@@ -1,0 +1,8 @@
+
+pandas
+folium
+requests
+matplotlib
+streamlit
+json
+plotly
