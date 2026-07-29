@@ -234,11 +234,13 @@ As part of a collaborative Agile Scrum team, my primary contributions included:
 
 ---
 
-# 🌐 Live Demo
+## 🌐 Live Demo
 
-Live Demo
+🚀 Explore the live dashboard here:
 
-https://toronto-crime-dashboard.streamlit.app
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://abetayo-toronto-crime-dashboard.streamlit.app)
+
+> **Note:** The online demonstration uses a representative sample of the Toronto Crime Indicators dataset to ensure fast and reliable cloud deployment. The full dataset is available for local analysis.
 
 To explore the application locally:
 
