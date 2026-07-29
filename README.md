@@ -38,6 +38,54 @@ Public safety professionals and city stakeholders require an accessible way to:
 
 ---
 
+---
+
+## 📸 Dashboard Preview
+
+### Interactive Dashboard Overview
+
+The Streamlit dashboard provides a visual interface for exploring hourly crime patterns, category-level trends, neighbourhood activity, police divisions, premises types, and geographic crime concentration.
+
+![Toronto Crime Indicators Dashboard](assets/Dashboard-Overview.jpeg)
+
+### Geographic Crime Density Heatmap
+
+The geographic heatmap displays the spatial distribution of reported incidents across Toronto neighbourhoods, enabling users to identify areas with higher incident concentrations.
+
+![Geographic Crime Density Heatmap](assets/crime-heatmap.jpeg)
+
+### Crime Trends Over Time
+
+This analysis tracks reported incidents by year and supports the identification of long-term changes in crime activity.
+
+![Crime Trends Over Time](assets/crime-trends.png)
+
+### Police Division Activity
+
+The division analysis compares incident volumes across Toronto Police Service divisions to support workload assessment and operational planning.
+
+![Crime Activity by Police Division](assets/division-activity.png)
+
+### Incidents by Premises Type
+
+This chart compares reported incidents across premises categories, including outdoor locations, apartments, commercial properties, houses, transit areas, and educational locations.
+
+![Crime Incidents by Premises Type](assets/premises-analysis.png)
+
+### Highest-Incident Neighbourhoods
+
+The neighbourhood ranking highlights the ten Toronto neighbourhoods with the highest reported incident counts in the dataset.
+
+![Top Neighbourhoods by Crime Incidents](assets/neighbourhood-trends.jpeg)
+
+### Neighbourhood Trends
+
+This visual compares annual incident trends among the highest-incident neighbourhoods and the wider city baseline.
+
+![Yearly Crime Trends by Neighbourhood](assets/neighbourhood-ranking.png)
+
+---
+
 ## 🛠️ Technologies Used
 
 - Python
