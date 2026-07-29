@@ -25,7 +25,7 @@ from src.constants import LATITUDE, LONGITUDE
 
 @st.cache_data
 def get_dashboard_data():
-    raw_df = load_data("data/Toronto_Crime_Indicators.csv")
+    raw_df = load_data("data/toronto_crime_sample.csv")
     return clean_data(raw_df)
 
 
