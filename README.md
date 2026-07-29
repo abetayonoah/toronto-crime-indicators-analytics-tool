@@ -1,4 +1,11 @@
 # 🚔 Toronto Crime Indicators Analytics Tool
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+
+![PyTest](https://img.shields.io/badge/Tests-Passing-brightgreen)
+
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A Python and Streamlit analytics application designed to transform large-scale Toronto crime data into interactive insights that support public safety planning and operational decision-making.
 
@@ -13,6 +20,23 @@ The application enables users to explore crime trends, compare police division a
 Developed using Agile Scrum practices, the project includes automated testing, modular Python development, and GitHub version control.
 
 ---
+
+## 📑 Table of Contents
+
+## Table of Contents
+
+- Project Overview
+- Business Problem
+- Key Features
+- Dashboard Preview
+- Technologies Used
+- Installation
+- Testing
+- Dataset
+- Key Insights
+- My Contributions
+- Future Enhancements
+- Contact
 
 ## 🎯 Business Problem
 
@@ -213,7 +237,9 @@ As part of a collaborative Agile Scrum team, my primary contributions included:
 
 # 🌐 Live Demo
 
-A live deployment is not currently available.
+Live Demo
+
+https://toronto-crime-dashboard.streamlit.app
 
 To explore the application locally:
 
