@@ -1,8 +1,8 @@
-
+streamlit
 pandas
+numpy
+matplotlib
+plotly
 folium
 requests
-matplotlib
-streamlit
-json
-plotly
+pytest
