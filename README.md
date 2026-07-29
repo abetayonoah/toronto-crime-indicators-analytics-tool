@@ -23,7 +23,6 @@ Developed using Agile Scrum practices, the project includes automated testing, m
 
 ## 📑 Table of Contents
 
-## Table of Contents
 
 - Project Overview
 - Business Problem
