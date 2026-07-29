@@ -1,4 +1,4 @@
-"""Streamlit Cloud entry point for the Toronto Crime dashboard."""
+"""Streamlit entry point for the Toronto Crime dashboard."""
 
 import runpy
 
