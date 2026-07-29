@@ -243,7 +243,7 @@ https://toronto-crime-dashboard.streamlit.app
 To explore the application locally:
 
 ```bash
-streamlit run app.py
+streamlit run src/dashboard.py
 ```
 
 # 🚀 Future Enhancements
